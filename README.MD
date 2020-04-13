@@ -13,8 +13,8 @@
 
 
 ## Overview:
-	. Perform Precipitation & Station analysis.
+	. Performed Precipitation & Station analysis.
 	. Retrieved the data for the past 12 months 
-	. Show a list of stations
-	. Plot bar chart showing average temps & a histogram showing the temp.
+	. Showed a list of stations
+	. Ploted bars chart showing average temps & a histogram showing the temp.
 
